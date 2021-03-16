@@ -19419,32 +19419,11 @@
     "aspettativa_vita": 71.8
   },
   {
-    "nuts2_codice": "RO11",
-    "anno": "2017",
-    "popolazione": 2568282,
-    "tasso_fertilita": 1.7,
-    "aspettativa_vita": 71.8
-  },
-  {
     "nuts2_codice": "RO12",
     "anno": "2017",
     "popolazione": 2332785,
     "tasso_fertilita": 1.88,
     "aspettativa_vita": 72.3
-  },
-  {
-    "nuts2_codice": "RO12",
-    "anno": "2017",
-    "popolazione": 2332785,
-    "tasso_fertilita": 1.88,
-    "aspettativa_vita": 72.3
-  },
-  {
-    "nuts2_codice": "RO21",
-    "anno": "2017",
-    "popolazione": 3239540,
-    "tasso_fertilita": 2.16,
-    "aspettativa_vita": 70.6
   },
   {
     "nuts2_codice": "RO21",
@@ -19461,32 +19440,11 @@
     "aspettativa_vita": 70.7
   },
   {
-    "nuts2_codice": "RO22",
-    "anno": "2017",
-    "popolazione": 2447270,
-    "tasso_fertilita": 1.89,
-    "aspettativa_vita": 70.7
-  },
-  {
     "nuts2_codice": "RO31",
     "anno": "2017",
     "popolazione": 3003394,
     "tasso_fertilita": 1.74,
     "aspettativa_vita": 71.5
-  },
-  {
-    "nuts2_codice": "RO31",
-    "anno": "2017",
-    "popolazione": 3003394,
-    "tasso_fertilita": 1.74,
-    "aspettativa_vita": 71.4
-  },
-  {
-    "nuts2_codice": "RO32",
-    "anno": "2017",
-    "popolazione": 2287208,
-    "tasso_fertilita": 1.52,
-    "aspettativa_vita": 73.2
   },
   {
     "nuts2_codice": "RO32",
@@ -19501,20 +19459,6 @@
     "popolazione": 1972979,
     "tasso_fertilita": 1.63,
     "aspettativa_vita": 72.1
-  },
-  {
-    "nuts2_codice": "RO41",
-    "anno": "2017",
-    "popolazione": 1972979,
-    "tasso_fertilita": 1.63,
-    "aspettativa_vita": 72.1
-  },
-  {
-    "nuts2_codice": "RO42",
-    "anno": "2017",
-    "popolazione": 1792491,
-    "tasso_fertilita": 1.58,
-    "aspettativa_vita": 71.5
   },
   {
     "nuts2_codice": "RO42",
@@ -21277,14 +21221,14 @@
     "anno": "2018",
     "popolazione": 1604865,
     "tasso_fertilita": 1.85,
-    "aspettativa_vita": 79.8
+    "aspettativa_vita": 79.7
   },
   {
     "nuts2_codice": "IE06",
     "anno": "2018",
     "popolazione": 2369275,
     "tasso_fertilita": 1.66,
-    "aspettativa_vita": 80.9
+    "aspettativa_vita": 80.8
   },
   {
     "nuts2_codice": "IS00",
@@ -21810,32 +21754,11 @@
     "aspettativa_vita": 71.7
   },
   {
-    "nuts2_codice": "RO11",
-    "anno": "2018",
-    "popolazione": 2560504,
-    "tasso_fertilita": 1.69,
-    "aspettativa_vita": 71.7
-  },
-  {
     "nuts2_codice": "RO12",
     "anno": "2018",
     "popolazione": 2325371,
     "tasso_fertilita": 1.84,
     "aspettativa_vita": 72.2
-  },
-  {
-    "nuts2_codice": "RO12",
-    "anno": "2018",
-    "popolazione": 2325371,
-    "tasso_fertilita": 1.84,
-    "aspettativa_vita": 72.2
-  },
-  {
-    "nuts2_codice": "RO21",
-    "anno": "2018",
-    "popolazione": 3222732,
-    "tasso_fertilita": 2.09,
-    "aspettativa_vita": 70.1
   },
   {
     "nuts2_codice": "RO21",
@@ -21852,20 +21775,6 @@
     "aspettativa_vita": 70.3
   },
   {
-    "nuts2_codice": "RO22",
-    "anno": "2018",
-    "popolazione": 2423059,
-    "tasso_fertilita": 1.84,
-    "aspettativa_vita": 70.3
-  },
-  {
-    "nuts2_codice": "RO31",
-    "anno": "2018",
-    "popolazione": 2965415,
-    "tasso_fertilita": 1.74,
-    "aspettativa_vita": 71.7
-  },
-  {
     "nuts2_codice": "RO31",
     "anno": "2018",
     "popolazione": 2965415,
@@ -21880,32 +21789,11 @@
     "aspettativa_vita": 73.5
   },
   {
-    "nuts2_codice": "RO32",
-    "anno": "2018",
-    "popolazione": 2302291,
-    "tasso_fertilita": 1.53,
-    "aspettativa_vita": 73.5
-  },
-  {
     "nuts2_codice": "RO41",
     "anno": "2018",
     "popolazione": 1949813,
     "tasso_fertilita": 1.66,
     "aspettativa_vita": 72.7
-  },
-  {
-    "nuts2_codice": "RO41",
-    "anno": "2018",
-    "popolazione": 1949813,
-    "tasso_fertilita": 1.66,
-    "aspettativa_vita": 72.7
-  },
-  {
-    "nuts2_codice": "RO42",
-    "anno": "2018",
-    "popolazione": 1784296,
-    "tasso_fertilita": 1.6,
-    "aspettativa_vita": 72.1
   },
   {
     "nuts2_codice": "RO42",
@@ -23694,149 +23582,149 @@
   {
     "nuts2_codice": "ITC1",
     "anno": "2019",
-    "popolazione": 4356406,
-    "tasso_fertilita": 1.26,
+    "popolazione": 4328565,
+    "tasso_fertilita": 1.27,
     "aspettativa_vita": 81
   },
   {
     "nuts2_codice": "ITC2",
     "anno": "2019",
-    "popolazione": 125666,
+    "popolazione": 125653,
     "tasso_fertilita": 1.31,
     "aspettativa_vita": 80.7
   },
   {
     "nuts2_codice": "ITC3",
     "anno": "2019",
-    "popolazione": 1550640,
-    "tasso_fertilita": 1.2,
-    "aspettativa_vita": 81.2
+    "popolazione": 1532980,
+    "tasso_fertilita": 1.21,
+    "aspettativa_vita": 81.1
   },
   {
     "nuts2_codice": "ITC4",
     "anno": "2019",
-    "popolazione": 10060574,
-    "tasso_fertilita": 1.32,
+    "popolazione": 10010833,
+    "tasso_fertilita": 1.33,
     "aspettativa_vita": 81.9
   },
   {
     "nuts2_codice": "ITF1",
     "anno": "2019",
-    "popolazione": 1311580,
-    "tasso_fertilita": 1.16,
-    "aspettativa_vita": 81.5
+    "popolazione": 1300645,
+    "tasso_fertilita": 1.17,
+    "aspettativa_vita": 81.4
   },
   {
     "nuts2_codice": "ITF2",
     "anno": "2019",
-    "popolazione": 305617,
+    "popolazione": 303790,
     "tasso_fertilita": 1.15,
     "aspettativa_vita": 80.9
   },
   {
     "nuts2_codice": "ITF3",
     "anno": "2019",
-    "popolazione": 5801692,
-    "tasso_fertilita": 1.3,
+    "popolazione": 5740291,
+    "tasso_fertilita": 1.31,
     "aspettativa_vita": 79.9
   },
   {
     "nuts2_codice": "ITF4",
     "anno": "2019",
-    "popolazione": 4029053,
-    "tasso_fertilita": 1.19,
-    "aspettativa_vita": 81.7
+    "popolazione": 3975528,
+    "tasso_fertilita": 1.2,
+    "aspettativa_vita": 81.6
   },
   {
     "nuts2_codice": "ITF5",
     "anno": "2019",
-    "popolazione": 562869,
-    "tasso_fertilita": 1.14,
+    "popolazione": 558587,
+    "tasso_fertilita": 1.15,
     "aspettativa_vita": 80.7
   },
   {
     "nuts2_codice": "ITF6",
     "anno": "2019",
-    "popolazione": 1947131,
-    "tasso_fertilita": 1.25,
-    "aspettativa_vita": 80.6
+    "popolazione": 1912021,
+    "tasso_fertilita": 1.26,
+    "aspettativa_vita": 80.5
   },
   {
     "nuts2_codice": "ITG1",
     "anno": "2019",
-    "popolazione": 4999891,
-    "tasso_fertilita": 1.32,
-    "aspettativa_vita": 80.3
+    "popolazione": 4908548,
+    "tasso_fertilita": 1.33,
+    "aspettativa_vita": 80.2
   },
   {
     "nuts2_codice": "ITG2",
     "anno": "2019",
-    "popolazione": 1639591,
-    "tasso_fertilita": 0.99,
-    "aspettativa_vita": 80.8
+    "popolazione": 1622257,
+    "tasso_fertilita": 1,
+    "aspettativa_vita": 80.7
   },
   {
     "nuts2_codice": "ITH1",
     "anno": "2019",
-    "popolazione": 531178,
+    "popolazione": 530313,
     "tasso_fertilita": 1.71,
     "aspettativa_vita": 82.2
   },
   {
     "nuts2_codice": "ITH2",
     "anno": "2019",
-    "popolazione": 541098,
+    "popolazione": 543721,
     "tasso_fertilita": 1.42,
     "aspettativa_vita": 82.4
   },
   {
     "nuts2_codice": "ITH3",
     "anno": "2019",
-    "popolazione": 4905854,
+    "popolazione": 4884590,
     "tasso_fertilita": 1.29,
     "aspettativa_vita": 82
   },
   {
     "nuts2_codice": "ITH4",
     "anno": "2019",
-    "popolazione": 1215220,
-    "tasso_fertilita": 1.24,
+    "popolazione": 1210414,
+    "tasso_fertilita": 1.25,
     "aspettativa_vita": 81.6
   },
   {
     "nuts2_codice": "ITH5",
     "anno": "2019",
-    "popolazione": 4459477,
+    "popolazione": 4459453,
     "tasso_fertilita": 1.3,
     "aspettativa_vita": 81.9
   },
   {
     "nuts2_codice": "ITI1",
     "anno": "2019",
-    "popolazione": 3729641,
-    "tasso_fertilita": 1.2,
+    "popolazione": 3701343,
+    "tasso_fertilita": 1.21,
     "aspettativa_vita": 82
   },
   {
     "nuts2_codice": "ITI2",
     "anno": "2019",
-    "popolazione": 882015,
-    "tasso_fertilita": 1.19,
+    "popolazione": 873744,
+    "tasso_fertilita": 1.2,
     "aspettativa_vita": 82.3
   },
   {
     "nuts2_codice": "ITI3",
     "anno": "2019",
-    "popolazione": 1525271,
+    "popolazione": 1520321,
     "tasso_fertilita": 1.19,
     "aspettativa_vita": 82.3
   },
   {
     "nuts2_codice": "ITI4",
     "anno": "2019",
-    "popolazione": 5879082,
-    "tasso_fertilita": 1.17,
-    "aspettativa_vita": 81.7
+    "popolazione": 5773076,
+    "tasso_fertilita": 1.18,
+    "aspettativa_vita": 81.6
   },
   {
     "nuts2_codice": "LI00",

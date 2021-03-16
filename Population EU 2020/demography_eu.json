@@ -19419,32 +19419,11 @@
     "life_expectancy": 71.8
   },
   {
-    "nuts2_code": "RO11",
-    "time": "2017",
-    "population": 2568282,
-    "fertility_rate": 1.7,
-    "life_expectancy": 71.8
-  },
-  {
     "nuts2_code": "RO12",
     "time": "2017",
     "population": 2332785,
     "fertility_rate": 1.88,
     "life_expectancy": 72.3
-  },
-  {
-    "nuts2_code": "RO12",
-    "time": "2017",
-    "population": 2332785,
-    "fertility_rate": 1.88,
-    "life_expectancy": 72.3
-  },
-  {
-    "nuts2_code": "RO21",
-    "time": "2017",
-    "population": 3239540,
-    "fertility_rate": 2.16,
-    "life_expectancy": 70.6
   },
   {
     "nuts2_code": "RO21",
@@ -19461,32 +19440,11 @@
     "life_expectancy": 70.7
   },
   {
-    "nuts2_code": "RO22",
-    "time": "2017",
-    "population": 2447270,
-    "fertility_rate": 1.89,
-    "life_expectancy": 70.7
-  },
-  {
     "nuts2_code": "RO31",
     "time": "2017",
     "population": 3003394,
     "fertility_rate": 1.74,
     "life_expectancy": 71.5
-  },
-  {
-    "nuts2_code": "RO31",
-    "time": "2017",
-    "population": 3003394,
-    "fertility_rate": 1.74,
-    "life_expectancy": 71.4
-  },
-  {
-    "nuts2_code": "RO32",
-    "time": "2017",
-    "population": 2287208,
-    "fertility_rate": 1.52,
-    "life_expectancy": 73.2
   },
   {
     "nuts2_code": "RO32",
@@ -19501,20 +19459,6 @@
     "population": 1972979,
     "fertility_rate": 1.63,
     "life_expectancy": 72.1
-  },
-  {
-    "nuts2_code": "RO41",
-    "time": "2017",
-    "population": 1972979,
-    "fertility_rate": 1.63,
-    "life_expectancy": 72.1
-  },
-  {
-    "nuts2_code": "RO42",
-    "time": "2017",
-    "population": 1792491,
-    "fertility_rate": 1.58,
-    "life_expectancy": 71.5
   },
   {
     "nuts2_code": "RO42",
@@ -21277,14 +21221,14 @@
     "time": "2018",
     "population": 1604865,
     "fertility_rate": 1.85,
-    "life_expectancy": 79.8
+    "life_expectancy": 79.7
   },
   {
     "nuts2_code": "IE06",
     "time": "2018",
     "population": 2369275,
     "fertility_rate": 1.66,
-    "life_expectancy": 80.9
+    "life_expectancy": 80.8
   },
   {
     "nuts2_code": "IS00",
@@ -21810,32 +21754,11 @@
     "life_expectancy": 71.7
   },
   {
-    "nuts2_code": "RO11",
-    "time": "2018",
-    "population": 2560504,
-    "fertility_rate": 1.69,
-    "life_expectancy": 71.7
-  },
-  {
     "nuts2_code": "RO12",
     "time": "2018",
     "population": 2325371,
     "fertility_rate": 1.84,
     "life_expectancy": 72.2
-  },
-  {
-    "nuts2_code": "RO12",
-    "time": "2018",
-    "population": 2325371,
-    "fertility_rate": 1.84,
-    "life_expectancy": 72.2
-  },
-  {
-    "nuts2_code": "RO21",
-    "time": "2018",
-    "population": 3222732,
-    "fertility_rate": 2.09,
-    "life_expectancy": 70.1
   },
   {
     "nuts2_code": "RO21",
@@ -21852,20 +21775,6 @@
     "life_expectancy": 70.3
   },
   {
-    "nuts2_code": "RO22",
-    "time": "2018",
-    "population": 2423059,
-    "fertility_rate": 1.84,
-    "life_expectancy": 70.3
-  },
-  {
-    "nuts2_code": "RO31",
-    "time": "2018",
-    "population": 2965415,
-    "fertility_rate": 1.74,
-    "life_expectancy": 71.7
-  },
-  {
     "nuts2_code": "RO31",
     "time": "2018",
     "population": 2965415,
@@ -21880,32 +21789,11 @@
     "life_expectancy": 73.5
   },
   {
-    "nuts2_code": "RO32",
-    "time": "2018",
-    "population": 2302291,
-    "fertility_rate": 1.53,
-    "life_expectancy": 73.5
-  },
-  {
     "nuts2_code": "RO41",
     "time": "2018",
     "population": 1949813,
     "fertility_rate": 1.66,
     "life_expectancy": 72.7
-  },
-  {
-    "nuts2_code": "RO41",
-    "time": "2018",
-    "population": 1949813,
-    "fertility_rate": 1.66,
-    "life_expectancy": 72.7
-  },
-  {
-    "nuts2_code": "RO42",
-    "time": "2018",
-    "population": 1784296,
-    "fertility_rate": 1.6,
-    "life_expectancy": 72.1
   },
   {
     "nuts2_code": "RO42",
@@ -23694,149 +23582,149 @@
   {
     "nuts2_code": "ITC1",
     "time": "2019",
-    "population": 4356406,
-    "fertility_rate": 1.26,
+    "population": 4328565,
+    "fertility_rate": 1.27,
     "life_expectancy": 81
   },
   {
     "nuts2_code": "ITC2",
     "time": "2019",
-    "population": 125666,
+    "population": 125653,
     "fertility_rate": 1.31,
     "life_expectancy": 80.7
   },
   {
     "nuts2_code": "ITC3",
     "time": "2019",
-    "population": 1550640,
-    "fertility_rate": 1.2,
-    "life_expectancy": 81.2
+    "population": 1532980,
+    "fertility_rate": 1.21,
+    "life_expectancy": 81.1
   },
   {
     "nuts2_code": "ITC4",
     "time": "2019",
-    "population": 10060574,
-    "fertility_rate": 1.32,
+    "population": 10010833,
+    "fertility_rate": 1.33,
     "life_expectancy": 81.9
   },
   {
     "nuts2_code": "ITF1",
     "time": "2019",
-    "population": 1311580,
-    "fertility_rate": 1.16,
-    "life_expectancy": 81.5
+    "population": 1300645,
+    "fertility_rate": 1.17,
+    "life_expectancy": 81.4
   },
   {
     "nuts2_code": "ITF2",
     "time": "2019",
-    "population": 305617,
+    "population": 303790,
     "fertility_rate": 1.15,
     "life_expectancy": 80.9
   },
   {
     "nuts2_code": "ITF3",
     "time": "2019",
-    "population": 5801692,
-    "fertility_rate": 1.3,
+    "population": 5740291,
+    "fertility_rate": 1.31,
     "life_expectancy": 79.9
   },
   {
     "nuts2_code": "ITF4",
     "time": "2019",
-    "population": 4029053,
-    "fertility_rate": 1.19,
-    "life_expectancy": 81.7
+    "population": 3975528,
+    "fertility_rate": 1.2,
+    "life_expectancy": 81.6
   },
   {
     "nuts2_code": "ITF5",
     "time": "2019",
-    "population": 562869,
-    "fertility_rate": 1.14,
+    "population": 558587,
+    "fertility_rate": 1.15,
     "life_expectancy": 80.7
   },
   {
     "nuts2_code": "ITF6",
     "time": "2019",
-    "population": 1947131,
-    "fertility_rate": 1.25,
-    "life_expectancy": 80.6
+    "population": 1912021,
+    "fertility_rate": 1.26,
+    "life_expectancy": 80.5
   },
   {
     "nuts2_code": "ITG1",
     "time": "2019",
-    "population": 4999891,
-    "fertility_rate": 1.32,
-    "life_expectancy": 80.3
+    "population": 4908548,
+    "fertility_rate": 1.33,
+    "life_expectancy": 80.2
   },
   {
     "nuts2_code": "ITG2",
     "time": "2019",
-    "population": 1639591,
-    "fertility_rate": 0.99,
-    "life_expectancy": 80.8
+    "population": 1622257,
+    "fertility_rate": 1,
+    "life_expectancy": 80.7
   },
   {
     "nuts2_code": "ITH1",
     "time": "2019",
-    "population": 531178,
+    "population": 530313,
     "fertility_rate": 1.71,
     "life_expectancy": 82.2
   },
   {
     "nuts2_code": "ITH2",
     "time": "2019",
-    "population": 541098,
+    "population": 543721,
     "fertility_rate": 1.42,
     "life_expectancy": 82.4
   },
   {
     "nuts2_code": "ITH3",
     "time": "2019",
-    "population": 4905854,
+    "population": 4884590,
     "fertility_rate": 1.29,
     "life_expectancy": 82
   },
   {
     "nuts2_code": "ITH4",
     "time": "2019",
-    "population": 1215220,
-    "fertility_rate": 1.24,
+    "population": 1210414,
+    "fertility_rate": 1.25,
     "life_expectancy": 81.6
   },
   {
     "nuts2_code": "ITH5",
     "time": "2019",
-    "population": 4459477,
+    "population": 4459453,
     "fertility_rate": 1.3,
     "life_expectancy": 81.9
   },
   {
     "nuts2_code": "ITI1",
     "time": "2019",
-    "population": 3729641,
-    "fertility_rate": 1.2,
+    "population": 3701343,
+    "fertility_rate": 1.21,
     "life_expectancy": 82
   },
   {
     "nuts2_code": "ITI2",
     "time": "2019",
-    "population": 882015,
-    "fertility_rate": 1.19,
+    "population": 873744,
+    "fertility_rate": 1.2,
     "life_expectancy": 82.3
   },
   {
     "nuts2_code": "ITI3",
     "time": "2019",
-    "population": 1525271,
+    "population": 1520321,
     "fertility_rate": 1.19,
     "life_expectancy": 82.3
   },
   {
     "nuts2_code": "ITI4",
     "time": "2019",
-    "population": 5879082,
-    "fertility_rate": 1.17,
-    "life_expectancy": 81.7
+    "population": 5773076,
+    "fertility_rate": 1.18,
+    "life_expectancy": 81.6
   },
   {
     "nuts2_code": "LI00",
